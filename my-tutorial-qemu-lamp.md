@@ -33,7 +33,7 @@ flush privileges
 1. rc-service apache2 start
 
 ## Setup php
-1. apk add php7 php7-apache php7-mysqli php7-json php7-simplexml php7-curl php7-dom
+1. apk add php7 php7-apache php7-mysqli php7-json php7-simplexml php7-curl php7-dom php7-ctype
 1. rc-service apache2 restart
 
 ## Some more tools?
