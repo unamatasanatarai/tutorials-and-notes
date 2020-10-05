@@ -38,3 +38,5 @@ flush privileges
 
 ## Some more tools?
 1. apk add vim htop fzf
+1. apk add nodejs yarn
+1. apk add git
