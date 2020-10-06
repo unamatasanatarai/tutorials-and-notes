@@ -7,3 +7,6 @@
 1. AllowOverride All
 1. uncomment # Virtual hosts
 1. `sudo /usr/sbin/apachectl restart`
+
+and then add php support!
+1. uncomment "LoadModule php7_module"
